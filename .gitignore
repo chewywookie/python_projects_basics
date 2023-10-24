@@ -1,0 +1,18 @@
+#ignore all .txt files
+*.txt
+
+
+#ignore .idea
+/time_calculator/.idea
+
+/time_calculator/__pycache__
+
+/arithmetic_advanced_formatter/__pycache__
+
+/arithmetic_advanced_formatter/.pytest_cache
+
+/arithmetic_advanced_formatter/.idea
+
+
+
+/budget_app_p3/.idea
